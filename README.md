@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47r45q3x4t7292oxz252a8nnmhngeain0henqxccn9&rid=giphy.gif&ct=g">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atul-shaw-b1507914b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-shaw-b1507914b/" height="30" width="40" /></a>
