@@ -7,11 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul8108&label=Profile%20views&color=0e75b6&style=flat" alt="atul8108" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js and React**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Node.js,Express,React and DataBase**
-
+<span align="right"><img  alt="HTML" src="https://user-images.githubusercontent.com/84556549/218098232-63726d4a-0059-4bc6-9da7-4672c001c39b.gif"></span>
 - 📫 How to reach me **shawatul4@gmail.com**
 
 - ⚡ Fun fact **I am funny**
